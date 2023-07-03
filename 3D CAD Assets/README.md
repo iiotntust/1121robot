@@ -2,11 +2,11 @@
 ## 3D files for simulation
 The relevent 3D files used in excersizes #1 and #2 have been provided for you within the *"CAD Assets"* subdirectory.
 
-```diff
+
 ### File types include:
-+ .STEP (ISO 10303 *Standard for the Exchange of Product Data*)
-+ .STL (Standard Triangle Language)
-```
+* .STEP (ISO 10303 *Standard for the Exchange of Product Data*)
+* .STL (Standard Triangle Language)
+
 
 ## Blueprints for corresponding CAD models
 The respective CAD models used in excersizes #1 and #2 have been provided for you within the *"PDF"* subdirectory.
@@ -15,14 +15,13 @@ The respective CAD models used in excersizes #1 and #2 have been provided for yo
 The original files were created using Autodesk Fusion 360 (*For Education*). Feelm free to download, copy and customise the designs as you wish.*
 
 
-```diff
+
 ### Files include:
-+ [Cylinder Part](https://a360.co/3pmQSv7)
-+ [Block Part](https://a360.co/3NmZcTH)
-+ [Part Tray](https://a360.co/3JyIhw6)
-+ [Alignment/Infeed fixture](https://a360.co/3NNyUKD)
-+ [Reference Point Setup Tool](https://a360.co/3PyeMhJ)
-+ [End Effector](https://a360.co/44fONAx)
-```
+* [Cylinder Part](https://a360.co/3pmQSv7)
+* [Block Part](https://a360.co/3NmZcTH)
+* [Part Tray](https://a360.co/3JyIhw6)
+* [Alignment/Infeed fixture](https://a360.co/3NNyUKD)
+* [Reference Point Setup Tool](https://a360.co/3PyeMhJ)
+* [End Effector](https://a360.co/44fONAx)
 
 <sup><sub>* The models were created for educational purposes and are intended for educational use. Please respect the intellectual rights of the school faculty and staff.</sub></sup>
