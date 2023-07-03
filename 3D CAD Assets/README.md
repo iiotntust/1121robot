@@ -1,6 +1,6 @@
 # 1121 Introduction to Robotics 3D CAD Assets
 ## 3D files for simulation
-The relevent 3D files used in excersizes #1 and #2 have been provided for you within the *"CAD Assets"* subdirectory.
+The relevant 3D files used in exercises #1 and #2 have been provided for you within the *"CAD Assets"* subdirectory.
 
 
 ### File types include:
@@ -9,10 +9,10 @@ The relevent 3D files used in excersizes #1 and #2 have been provided for you wi
 
 
 ## Blueprints for corresponding CAD models
-The respective CAD models used in excersizes #1 and #2 have been provided for you within the *"PDF"* subdirectory.
+The respective CAD models used in exercises #1 and #2 have been provided for you within the *"PDF"* subdirectory.
 
 ## Fusion 360 CAD models
-The original files were created using Autodesk Fusion 360 (*For Education*). Feelm free to download, copy and customise the designs as you wish.*
+The original files were created using Autodesk Fusion 360 (*For Education*). Feel free to download, copy and customize the designs as you wish.*
 
 
 
