@@ -41,12 +41,21 @@ Exercise: insert CAD models in robot envelope.
 
 ### Challenging tasks (Coming soon)
 
-- #### Task 1. (Coming soon)
-
-- #### Task 2. (Coming soon)
-
-- #### Task 3. (Coming soon)
-
+- #### Task 1. Tools
+  1. (Coming soon)
+  2. 
+- #### Task 2. Feeder
+  1. (Coming soon...) mixed tokens and blocks; switching feeder, unknown nubmer in feeder, shifted)
+  2. 
+- #### Task 3. Fixture
+  1. (coming soon)
+  2. 
+- #### Task 4. Tray
+  1. (coming soon)
+  2. 
+- #### Task 5. Others
+  1. (coming soon)
+  2. 
 ## 📈  Level of achievement:
 
 :::success
