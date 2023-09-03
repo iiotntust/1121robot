@@ -39,23 +39,23 @@ There are two way to build the simulaton environment:
 2. Start a new layout arrangement with the CAD files
 Exercise: insert CAD models in robot envelope. 
 
-### Challenging tasks (Coming soon)
+### Challenging tasks (draft)
 
 - #### Task 1. Tools
-  1. Gripper
-  2. Vacuum nozzle
+1. Gripper
+2. Vacuum nozzle
 - #### Task 2. Feeder
-  1. (Coming soon...) mixed tokens and blocks; switching feeder, unknown nubmer in feeder, shifted)
-  2. 
+1. Gripper
+2. Vacuum nozzle
 - #### Task 3. Fixture
-  1. (coming soon)
-  2. 
+1. Gripper
+2. Vacuum nozzle
 - #### Task 4. Tray
-  1. (coming soon)
-  2. 
+1. Gripper
+2. Vacuum nozzle
 - #### Task 5. Others
-  1. (coming soon)
-  2. 
+1. Gripper
+2. Vacuum nozzle 
 ## 📈  Level of achievement:
 
 :::success
