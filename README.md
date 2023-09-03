@@ -41,11 +41,11 @@ Exercise: insert CAD models in robot envelope.
 
 ### Challenging tasks (Coming soon)
 
-#### Task 1. (Coming soon)
+- #### Task 1. (Coming soon)
 
-#### Task 2. (Coming soon)
+- #### Task 2. (Coming soon)
 
-#### Task 3. (Coming soon)
+- #### Task 3. (Coming soon)
 
 ## 📈  Level of achievement:
 
