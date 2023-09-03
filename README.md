@@ -23,9 +23,7 @@
 The suggested basic tasks can help students familiarize the World, Local, and Tool coordinates settings, and utilize essential functions and commands.
 The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without the detail instructions. Students should leverage the functions and commands they learned in the lectures and robot manuals with their creativity.
 
-:::success
 ### Basic tasks
-:::
 - Task 1. Exploring the robot envelop and the workcell:
 
 Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed the calibration)
@@ -41,9 +39,7 @@ There are two way to build the simulaton environment:
 2. Start a new layout arrangement with the CAD files
 Exercise: insert CAD models in robot envelope. 
 
-
-:::success
-### Challenging tasks (Coming soon):::
+### Challenging tasks (Coming soon)
 
 #### Task 1. (Coming soon)
 
