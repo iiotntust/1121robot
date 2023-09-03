@@ -24,7 +24,7 @@ The suggested basic tasks can help students familiarize the World, Local, and To
 The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without the detail instructions. Students should leverage the functions and commands they learned in the lectures and robot manuals with their creativity.
 
 :::success
-Basic tasks
+### Basic tasks
 :::
 - Task 1. Exploring the robot envelop and the workcell:
 
@@ -43,8 +43,7 @@ Exercise: insert CAD models in robot envelope.
 
 
 :::success
-Challenging tasks (Coming soon)
-:::
+### Challenging tasks (Coming soon):::
 
 #### Task 1. (Coming soon)
 
@@ -88,13 +87,11 @@ https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files (tool, fixture, tray…)
 1. Tooling End Effector: https://a360.co/44fONAx 
-![image](https://github.com/iiotntust/1121robot/assets/56021651/e30f6db4-7f5f-48d5-9b88-12e4757903e4)
-![](https://hackmd.io/_uploads/SJ2SrFbAn.png)
-2. ![](https://hackmd.io/_uploads/BJ_uHt-C3.png)
-3. ![](https://hackmd.io/_uploads/r189rYWC2.png)
-4. ![](https://hackmd.io/_uploads/Bk7jrYW0h.png)
-5. ![](https://hackmd.io/_uploads/SyBhHt-R2.png)
-6. ![](https://hackmd.io/_uploads/SJ76SKWCh.png)
+2. Token: https://a360.co/3pmQSv7
+3. Block: https://a360.co/3NmZcTH
+4. Fixture, Tray: https://a360.co/3JyIhw6
+5. Alignment/Infeed fixture: https://a360.co/3NNyUKD
+6. Reference Point Setup Tool: https://a360.co/3PyeMhJ
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
