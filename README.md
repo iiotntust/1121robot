@@ -42,20 +42,25 @@ Exercise: insert CAD models in robot envelope.
 ### Challenging tasks (draft)
 
 - #### Task 1. Tools
-1. Gripper
-2. Vacuum nozzle
+1. Gripper - high accuracy (can skip the alignment process in specific circustance); can use as a tool to align objects at fixtures (alignment)
+2. Vacuum nozzle - with presure sensor, can use to check objects; can use as tool to align object, too. 
+3. Explore the status by vaccume presure: check feeder, fixture, tray status. (quanity, occupied or vaccancy)
 - #### Task 2. Feeder
-1. Gripper
-2. Vacuum nozzle
+1. Two feeders (A, B)
+2. Mixed tokens and blocks
+3. Stack up not neatly (not aligned)
+4. Unfull-fill the feeder (checking quanlity)
 - #### Task 3. Fixture
-1. Gripper
-2. Vacuum nozzle
+1. Two fixtures (for different orientation - block 20 mm x 24 mm)
+2. How to distinguish the block in (20 mm x 24 mm) or (24 mm x 20 mm)
 - #### Task 4. Tray
-1. Gripper
-2. Vacuum nozzle
+1. One tray 
+2. Two tray stack up (two layer)
+3. Two tray, one at essientail location, one at other location with angle(30 degree). 
 - #### Task 5. Others
-1. Gripper
-2. Vacuum nozzle 
+1. HMI - check token or block 
+2. HMI - check orientation of "rectangle" blocks
+3. ......... to be continue. 
 ## 📈  Level of achievement:
 
 :::success
