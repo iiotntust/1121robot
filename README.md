@@ -1,9 +1,6 @@
 # 1121 Introduction to Robotics Tutorial 
 ## ME4609301 (for Taiwan-Paraquay Polytechnic University)
-:::info
 :bulb: In this class, the students can learn the basics manipulating operation of industrial robot arms (EPSON robot). The class introduces two types robots, 6-Axis robot and SCARA robot, but only utiliz 6-Axis robots in exercises. The main subjects include: Introduction to Industrial Robot Arm, Software and Simulation, Calibartion and Alignemnt, I/O port Commmunication, Human-Machine Interface (HMI), Machine vision. In final, the students possess the capability to deisgn an automatic work cell with robot. 
-:::
-
 ## :beginner: Exercises and resources
 
 - Basic and Challenging tasks:
