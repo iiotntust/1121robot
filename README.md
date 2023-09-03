@@ -1,93 +1,106 @@
 # 1121 Introduction to Robotics Tutorial 
-## ME4609301 (Only for Taiwan-Paraquay Polytechnic University)
-In this class, the students can learn the basics manipulating operation of industrial robot arms (EPSON robot). The class introduces two types robots, 6-Axis robot and SCARA robot, but only utiliz 6-Axis robots in exercises. The main subjects include: Introduction to Industrial Robot Arm, Software and Simulation, Calibartion and Alignemnt, I/O port Commmunication, Human-Machine Interface (HMI), Machine vision. In final, the students possess the capability to deisgn an automatic work cell with robot.   
+## ME4609301 (for Taiwan-Paraquay Polytechnic University)
 :::info
-:bulb: Course no. ME4609301;Taiwan-Paraquay Polytechnic University.  
-:small_blue_diamond:  
-:small_blue_diamond:  
-:small_blue_diamond:  
-:small_blue_diamond:  
+:bulb: In this class, the students can learn the basics manipulating operation of industrial robot arms (EPSON robot). The class introduces two types robots, 6-Axis robot and SCARA robot, but only utiliz 6-Axis robots in exercises. The main subjects include: Introduction to Industrial Robot Arm, Software and Simulation, Calibartion and Alignemnt, I/O port Commmunication, Human-Machine Interface (HMI), Machine vision. In final, the students possess the capability to deisgn an automatic work cell with robot. 
 :::
 
-## :beginner: Project Info
+## :beginner: Exercises and resources
+
+- Basic and Challenging tasks:
+    - [ ] Basic tasks
+    - [ ] Challenging tasks
+- Level of capability: 
+    - [ ] Level 1,2,3,4,5.
+- Resources (CAD files, manuals): 
+    - [ ] CAD software
+    - [ ] CAD files (tool, fixture, tray...)
+    - [ ] CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
+    - [ ] EPSON manuals
+- Extra-exercise time booking: 
+    - [ ] 2 shift per week. (3 hours/shift)
+
+## :triangular_flag_on_post: Basic and Challenging tasks
+The suggested basic tasks can help students familiarize the World, Local, and Tool coordinates settings, and utilize essential functions and commands.
+The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without the detail instructions. Students should leverage the functions and commands they learned in the lectures and robot manuals with their creativity.
 
 :::success
-Describe the essential information of this project.
+Basic tasks
 :::
+- Task 1. Exploring the robot envelop and the workcell:
 
-:small_blue_diamond:EPSON manual:chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide-rc700a_rc90_t(v73r4).pdf  
-:small_blue_diamond:Delta HMI manual:chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://filecenter.deltaww.com/Products/download/06/060302/Manual/DELTA_IA-HMI_DOPSoft_UM_EN_20211230.pdf  
-:small_blue_diamond:Budget:  
-:small_blue_diamond:Contributors:  
-:small_blue_diamond:Target Audience:  
-:small_blue_diamond:Expected Launch Date:
+Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed the calibration)
+1. Define the World (local0), Local, tool(tool0), tool coordinates. (Based on the robots and works cell)
+2. Measure the tool dimension and the center offset between tool0(J6, robot) and tools.(Tool1: gripper, Tool2: vacuum nozzle)
+3. Decide the space between "objects"(tokens and blocks) at pick-up and approach gap when place
 
-## :triangular_flag_on_post: Background
+Exercise: transfer tokens from feeder to fixture first, and then move to the tray. 
+- Task 2. Building the simulation environment:
+
+There are two way to build the simulaton environment:
+1. Use the measured dimension of robot envelop and the workcell in Basic: Task 1.
+2. Start a new layout arrangement with the CAD files
+Exercise: insert CAD models in robot envelope. 
+
 
 :::success
-Describe the problem/mission you are solving.
+Challenging tasks (Coming soon)
 :::
 
-## :pencil: Objectives and Challenges
+#### Task 1. (Coming soon)
+
+#### Task 2. (Coming soon)
+
+#### Task 3. (Coming soon)
+
+## 📈  Level of achievement:
 
 :::success
-What does this project want to achieve? Are there any challenges?
+To measure the capability of implmenation robotic project.
 :::
 
-### :small_blue_diamond: Problem Formulation:
+|     **Level**    |   **Capbility**  |**To achieve assignments** |
+|:------------------:|:--------------:|:-----:|
+| 01      | Can set cooridinates (world,local,tools), and align tool to workcell.| Complete basic tasks; like the 6 piceces pick-n-place task (one feeder, one fixture, one tray)
+| 02   |Can communicate robot to perform selection or judgement via I/O or network | like conduct select feeder, sort token and block via HMI by human.  |
+| 03   |Can plan process to handle expected changes|like when one feeder empty, automatically changes to the other one. |
+| 04   |Can handle unexpected changes|like when lost power, lost pneumatic, E-Stop, can restored system by interference.          |
+| 05    |Can perform continously operation with auto restore capabilityreponse to anomal and continue to operates| Automatic drop the token or block when anomal happened and restore. |  
 
-### :small_blue_diamond: Expected Techniques:
-
-1.
-2.
-
-### :small_blue_diamond: Expected Goals and Criteria:
+The goal is to make the robot can run continuesly without ma
 
 
-| **Goal/Criteria** | **Description** | **Note** |
-|:-----------------:|:---------------:|:--------:|
-|                   |                 |          |
-|                   |                 |          |
-|                   |                 |          |
 
-### :small_blue_diamond: Expected Challenges:
 
-#### Expected Solution:
--
--
 
-## :timer_clock: Calandar
+## :feet: Resources (CAD files, manuals):
 
 :::success
-Subjects and activities in 16 weeks.
+CAD software, files, manuals.
 :::
 
-|        **Week/Subject**        | **Date** | **Note** |
-|:----------------------:|:--------------:|:-----------:|
-| 01   |          |          |
-| 02 |          |          |
-| 03 |          |          |
-| 04      |          |          |
-| 05       |          |          |
-| 06       |          |          |
-| 07    |          |          |
-| 08 Mid-Tram Examine |          |          |
-| 09 |          |          |
-| 10      |          |          |
-| 11      |          |          |
-| 12       |          |          |
-| 13    |          |          |
-| 14      |          |          |
-| 15 Final Demo|          |          |
-| 16 Final Demo|          |          |
-| 17 Option    |          |          
+### :small_blue_diamond: CAD software
+1. Mechanical Engineering Department - CAD software 
+https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
+2. Free auto cad, register with students id. 
+https://www.autodesk.com/products/fusion-360/education
+3. Education account apply
+https://www.autodesk.com/education/support
 
-## :book:Reference
+### :small_blue_diamond: CAD files (tool, fixture, tray…)
+1. ![](https://hackmd.io/_uploads/SJ2SrFbAn.png)
+2. ![](https://hackmd.io/_uploads/BJ_uHt-C3.png)
+3. ![](https://hackmd.io/_uploads/r189rYWC2.png)
+4. ![](https://hackmd.io/_uploads/Bk7jrYW0h.png)
+5. ![](https://hackmd.io/_uploads/SyBhHt-R2.png)
+6. ![](https://hackmd.io/_uploads/SJ76SKWCh.png)
 
-:::success
-List the reference you use in this project.
-:::
+### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
+1. Chelic components download: https://chelic.partcommunity.com/
 
-1.
-2.
-          
+### :small_blue_diamond: EPSON manuals
+1. EPSON manual:
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide-rc700a_rc90_t(v73r4).pdf  
+2. Delta HMI manual: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://filecenter.deltaww.com/Products/download/06/060302/Manual/DELTA_IA-HMI_DOPSoft_UM_EN_20211230.pdf
+
+
+
