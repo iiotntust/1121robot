@@ -65,9 +65,9 @@ To measure the capability of implementation of a robotic project.
 |     **Level**    |   **Capbility**  |**To achieve assignments** |
 |:------------------:|:--------------:|:-----:|
 | 01      | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
-| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | like manually conduct select feeder, sort token and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
-| 03   |Can plan process to handle expected changes|like when one feeder is empty, automatically changes to the other. |
-| 04   |Can handle unexpected changes|like when lost power, lost pneumatic, E-Stop, can restore system by interference.|
+| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
+| 03   |Can plan process to handle expected changes|when one feeder is empty, automatically changes to the other. |
+| 04   |Can handle unexpected changes|when lost power, lost pneumatic, E-Stop, can restore system by interference.|
 | 05   |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
 
 The goal is to make the robot run continuously without human intervention. 
