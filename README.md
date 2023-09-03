@@ -60,9 +60,7 @@ Exercise: Insert CAD models in a robot envelope.
 3. ......... with any idea you can think of. (continue) 
 ## 📈  Level of achievement:
 
-:::success
 To measure the capability of implementation of a robotic project.
-:::
 
 |     **Level**    |   **Capbility**  |**To achieve assignments** |
 |:------------------:|:--------------:|:-----:|
@@ -72,14 +70,10 @@ To measure the capability of implementation of a robotic project.
 | 04   |Can handle unexpected changes|like when lost power, lost pneumatic, E-Stop, can restore system by interference.          |
 | 05    |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
 
-The goal is to make the robot can run continuously without human intervention. 
+The goal is to make the robot run continuously without human intervention. 
 
 ## :feet: Resources (CAD files, manuals):
-
-:::success
 CAD software, files, and manuals.
-:::
-
 ### :small_blue_diamond: CAD software
 1. Mechanical Engineering Department - CAD software 
 https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
@@ -98,7 +92,6 @@ https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
-
 
 ### :small_blue_diamond: EPSON manuals
 1. EPSON manual:
