@@ -105,7 +105,7 @@ https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
-2. Vacuum nozzle, Vacuum generator, Solenoid Valve - 3 port / 2 state: https://www.chelic.com/en/Contact/OfficeT#north
+
 
 ### :small_blue_diamond: EPSON manuals
 1. EPSON manual:
