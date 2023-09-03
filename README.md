@@ -87,7 +87,9 @@ https://www.autodesk.com/products/fusion-360/education
 https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files (tool, fixture, tray…)
-1. ![](https://hackmd.io/_uploads/SJ2SrFbAn.png)
+1. Tooling End Effector: https://a360.co/44fONAx 
+![image](https://github.com/iiotntust/1121robot/assets/56021651/e30f6db4-7f5f-48d5-9b88-12e4757903e4)
+![](https://hackmd.io/_uploads/SJ2SrFbAn.png)
 2. ![](https://hackmd.io/_uploads/BJ_uHt-C3.png)
 3. ![](https://hackmd.io/_uploads/r189rYWC2.png)
 4. ![](https://hackmd.io/_uploads/Bk7jrYW0h.png)
@@ -96,6 +98,7 @@ https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
+2. Vacuum nozzle, Vacuum generator, Solenoid Valve - 3 port / 2 state: https://www.chelic.com/en/Contact/OfficeT#north
 
 ### :small_blue_diamond: EPSON manuals
 1. EPSON manual:
