@@ -42,8 +42,8 @@ Exercise: insert CAD models in robot envelope.
 ### Challenging tasks (Coming soon)
 
 - #### Task 1. Tools
-  1. (Coming soon)
-  2. 
+  1. Gripper
+  2. Vacuum nozzle
 - #### Task 2. Feeder
   1. (Coming soon...) mixed tokens and blocks; switching feeder, unknown nubmer in feeder, shifted)
   2. 
