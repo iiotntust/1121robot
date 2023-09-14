@@ -6,3 +6,13 @@
 * [Delta DOP (HMI software)](https://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&CID=06&itemID=060302&sort_expr=cdate&sort_dir=DESC)
 * [Draw.IO](https://app.diagrams.net/)
 * [Github](https://github.com/)
+
+## TA Contacts
+* Anthony: anthonyreimche+iiot@gmail.com
+* WeiChun: a123r456t789+iiot@gmail.com
+
+## Laboratory Timetable:
+| Date  | Group |
+| ----- | ----- |
+| ????  | ????  |
+| ????  | ????  |
