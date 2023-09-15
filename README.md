@@ -69,7 +69,7 @@ Exercise: Insert CAD models in a robot envelope.
 1. Using robot GUI / or button box or HMI - check token or block 
 2. Using robot GUI / or button box or HMI - Check the orientation of "rectangle" blocks
 3. ......... with any idea you can think of. (continue)
-## :M: Mechanical design and assembling: (group A and B collaboration)
+## :joystick: Mechanical design and assembling: (group A and B collaboration)
 - #### Gripper
 1. One tray 
 2. Two trays stack up (two layers)
@@ -96,11 +96,6 @@ Exercise: Insert CAD models in a robot envelope.
 1. One tray 
 2. Two trays stack up (two layers)
 3. Two trays, one at the essential location and one at another with an angle(30 degrees)
-
-
-
-
-
 
 ## 📈  Level of achievement:
 
