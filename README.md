@@ -70,6 +70,7 @@ Exercise: Insert CAD models in a robot envelope.
 2. Using robot GUI / or button box or HMI - Check the orientation of "rectangle" blocks
 3. ......... with any idea you can think of. (continue)
 ## :joystick: Mechanical design and assembling: (group A and B collaboration)
+In this sector, students learn how to design the mechanical parts for the gripper on robot and the cylinder on the peripherals, and print and assembly them on the robot system. 
 - #### Gripper
 1. Design "Finger"
 2. 3D print  
