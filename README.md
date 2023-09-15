@@ -6,6 +6,13 @@
 - Basic and Challenging tasks:
     - [ ] Basic tasks
     - [ ] Challenging tasks
+- Mechanical design and assembling: (group A and B collaboration)  
+    - [ ] Gripper
+    - [ ] Cylinder
+    - [ ] Instruction and reference
+- Electrical design and wiring: (group A and B collaboration)
+    - [ ] I/O box
+    - [ ] HMI
 - Level of capability: 
     - [ ] Level 1,2,3,4,5.
 - Resources (CAD files, manuals): 
