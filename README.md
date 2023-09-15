@@ -3,7 +3,7 @@
 :bulb: In this class, the students can learn the basics of manipulating the operation of industrial robot arms (EPSON robot). The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. In the end, the students possess the capability to design an automatic work cell with the robot. 
 ## :beginner: Exercises and resources
 
-- Basic and Challenging tasks:
+- Basic and Challenging tasks: (by team)
     - [ ] Basic tasks
     - [ ] Challenging tasks
 - Mechanical design and assembling: (group A and B collaboration)  
@@ -13,6 +13,7 @@
 - Electrical design and wiring: (group A and B collaboration)
     - [ ] I/O box
     - [ ] HMI
+    - [ ] Instruction and reference
 - Level of capability: 
     - [ ] Level 1,2,3,4,5.
 - Resources (CAD files, manuals): 
@@ -43,7 +44,7 @@ There are two ways to build the simulation environment:
 2. Start a new layout arrangement with the CAD files
 Exercise: Insert CAD models in a robot envelope. 
 
-### Challenging tasks (draft)
+### Challenging tasks
 
 - #### Task 1. Tools
 1. Gripper - high accuracy (can skip the alignment process in specific circumstances); can be used as a tool to align objects at fixtures (alignment)
@@ -67,7 +68,40 @@ Exercise: Insert CAD models in a robot envelope.
 - #### Task 5. Others
 1. Using robot GUI / or button box or HMI - check token or block 
 2. Using robot GUI / or button box or HMI - Check the orientation of "rectangle" blocks
-3. ......... with any idea you can think of. (continue) 
+3. ......... with any idea you can think of. (continue)
+### Mechanical design and assembling: (group A and B collaboration)
+- #### Gripper
+1. One tray 
+2. Two trays stack up (two layers)
+3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+- #### Cylinder
+1. One tray 
+2. Two trays stack up (two layers)
+3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+- #### Instruction and reference
+1. One tray 
+2. Two trays stack up (two layers)
+3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+
+### Electrical design and wiring: (group A and B collaboration)
+- #### I/O box:
+1. One tray 
+2. Two trays stack up (two layers)
+3. Two trays, one at the essential location and one at another with an angle(30 degrees) 
+- #### HMI:
+1. One tray 
+2. Two trays stack up (two layers)
+3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+- #### Instruction and reference
+1. One tray 
+2. Two trays stack up (two layers)
+3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+
+
+
+
+
+
 ## 📈  Level of achievement:
 
 To measure the capability of implementation of a robotic project.
