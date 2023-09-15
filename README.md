@@ -2,7 +2,6 @@
 ## ME4609301 (for Taiwan-Paraquay Polytechnic University)
 :bulb: In this class, the students can learn the basics of manipulating the operation of industrial robot arms (EPSON robot). The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. In the end, the students possess the capability to design an automatic work cell with the robot. 
 ## :beginner: Exercises and resources
-
 - Basic and Challenging tasks: (by team)
     - [ ] Basic tasks
     - [ ] Challenging tasks
@@ -85,6 +84,7 @@ In this sector, students learn how to design the mechanical parts for the grippe
 1. Instruction .ppt (follow TA)
 2. 3D printer manual (Roland)   
 ## :eight_pointed_black_star: Electrical design and wiring: (group A and B collaboration)
+In this sector, students learn how to illustrate the wiring diagrams for I/O box and HMI, and conduct the wiring and assembly to the I/O Bus of EPSON robot.
 - #### I/O box:
 1. Illustrate wiring diagram (.pdf)
    - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
@@ -99,7 +99,7 @@ In this sector, students learn how to design the mechanical parts for the grippe
 4. Github: save drawing and files (.pdf)
 - #### Instruction and reference
 1. Instruction .ppt (follow TA)  
-2. Button pin map:
+2. Button pin map:  
 3. HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
 
 ## 📈  Level of achievement:
