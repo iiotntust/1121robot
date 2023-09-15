@@ -71,31 +71,35 @@ Exercise: Insert CAD models in a robot envelope.
 3. ......... with any idea you can think of. (continue)
 ## :joystick: Mechanical design and assembling: (group A and B collaboration)
 - #### Gripper
-1. One tray 
-2. Two trays stack up (two layers)
-3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+1. Design "Finger"
+2. 3D print  
+3. Assembly
+4. Github: drawing and files (for 3D printer).
 - #### Cylinder
-1. One tray 
-2. Two trays stack up (two layers)
-3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+1. Design "Holder"
+2. 3D print 
+3. Assembly
+4. Github: save drawing and files (for 3D printer).
 - #### Instruction and reference
-1. One tray 
-2. Two trays stack up (two layers)
-3. Two trays, one at the essential location and one at another with an angle(30 degrees)
-
+1. Instruction .ppt (follow TA)
+2. 3D printer manual (Roland)   
 ## :eight_pointed_black_star: Electrical design and wiring: (group A and B collaboration)
 - #### I/O box:
-1. One tray 
-2. Two trays stack up (two layers)
-3. Two trays, one at the essential location and one at another with an angle(30 degrees) 
+1. Illustrate wiring diagram (.pdf)
+   - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
+   - I/O box to Robot I/O terminal
+2. Wiring and Assembling
+3. Github: save drawing and files (.pdf) 
 - #### HMI:
-1. One tray 
-2. Two trays stack up (two layers)
-3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+1. Illustrate wiring diagram
+   - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
+   - I/O box to Robot I/O terminal
+3. Wiring and Assembling
+4. Github: save drawing and files (.pdf)
 - #### Instruction and reference
-1. One tray 
-2. Two trays stack up (two layers)
-3. Two trays, one at the essential location and one at another with an angle(30 degrees)
+1. Instruction .ppt (follow TA)  
+2. Button pin map:
+3. HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
 
 ## 📈  Level of achievement:
 
