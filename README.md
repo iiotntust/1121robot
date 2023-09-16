@@ -99,8 +99,13 @@ In this sector, students learn how to illustrate the wiring diagrams for I/O box
 4. Github: save drawing and files (.pdf)
 - #### Instruction and reference
 1. Instruction .ppt (follow TA)  
-2. Button pin map:  
-3. HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
+2. Pushbutton Switch pin assigned:
+   - ![image](https://github.com/iiotntust/1121robot/assets/56021651/256693ec-fbd2-44cb-80fd-cc74653e5d29)
+
+
+     
+  
+4. HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
 
 ## 📈  Level of achievement:
 
