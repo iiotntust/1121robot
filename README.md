@@ -92,20 +92,16 @@ In this sector, students learn how to illustrate the wiring diagrams for I/O box
 2. Wiring and Assembling
 3. Github: save drawing and files (.pdf)
 4. Reference:
-   - Pushbutton Switch pin assigned:
+   - Pushbutton Switch:[[reference link](https://www.amazon.com/Latching-Button-Switch-Waterproof-K16-371/dp/B0975WXFTB/ref=sr_1_17_sspa?crid=DO62EE9HW0YB&keywords=16mm%2BPush%2BButton%2BSwitch&qid=1694827804&sprefix=16mm%2Bpush%2Bbutton%2Bswitch%2Caps%2C303&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)]
+   - Wiring (suggested: No.1, Button On/ LED on) ![image](https://github.com/iiotntust/1121robot/assets/56021651/d3f10f6d-82cf-433b-a58e-2134b93983ee)
 - #### HMI:
 1. Illustrate wiring diagram
    - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
    - I/O box to Robot I/O terminal
 3. Wiring and Assembling
 4. Github: save drawing and files (.pdf)
-- #### Instruction and reference
-1. Instruction .ppt (follow TA)  
-2. Pushbutton Switch:[[reference link](https://www.amazon.com/Latching-Button-Switch-Waterproof-K16-371/dp/B0975WXFTB/ref=sr_1_17_sspa?crid=DO62EE9HW0YB&keywords=16mm%2BPush%2BButton%2BSwitch&qid=1694827804&sprefix=16mm%2Bpush%2Bbutton%2Bswitch%2Caps%2C303&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)]
-- Wiring (suggested: No.1, Button On/ LED on) ![image](https://github.com/iiotntust/1121robot/assets/56021651/d3f10f6d-82cf-433b-a58e-2134b93983ee)
-   
-  
-4. HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
+4. Reference
+   - HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
 
 ## 📈  Level of achievement:
 
