@@ -69,7 +69,7 @@ Exercise: Insert CAD models in a robot envelope.
 2. Using robot GUI / or button box or HMI - Check the orientation of "rectangle" blocks
 3. ......... with any idea you can think of. (continue)
 ## :joystick: Mechanical design and assembling: (group A and B collaboration)
-In this sector, students learn how to design the mechanical parts for the gripper on robot and the cylinder on the peripherals, and print and assembly them on the robot system. 
+In this sector, students learn how to design the mechanical parts for the gripper on the robot and the cylinder on the peripherals and print and assemble them on the robot system. 
 - #### Gripper
 1. Design "Finger"
 2. 3D print  
@@ -79,7 +79,7 @@ In this sector, students learn how to design the mechanical parts for the grippe
 1. Design "Holder"
 2. 3D print 
 3. Assembly
-4. Github: save drawing and files (for 3D printer).
+4. Github: save drawings and files (for 3D printer).
 - #### Instruction and reference
 1. Instruction .ppt (follow TA)
 2. 3D printer (Roland)
@@ -87,7 +87,7 @@ In this sector, students learn how to design the mechanical parts for the grippe
    - Tutorial video: https://www.youtube.com/watch?v=uk_OII4pgcA
    - Taiwan Agent: http://www.twinsoft.com.tw/ARM-10/ARM10.htm  
 ## :eight_pointed_black_star: Electrical design and wiring: (group A and B collaboration)
-In this sector, students learn how to illustrate the wiring diagrams for I/O box and HMI, and conduct the wiring and assembly to the I/O Bus of EPSON robot.
+In this sector, students learn how to illustrate the wiring diagrams for the I/O box and HMI and conduct the wiring and assembly to the I/O Bus of the EPSON robot.
 - #### I/O box:
 1. Illustrate wiring diagram (.pdf)
    - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
@@ -96,7 +96,9 @@ In this sector, students learn how to illustrate the wiring diagrams for I/O box
 3. Github: save drawing and files (.pdf)
 4. Reference:
    - Pushbutton Switch:[[reference link](https://www.amazon.com/Latching-Button-Switch-Waterproof-K16-371/dp/B0975WXFTB/ref=sr_1_17_sspa?crid=DO62EE9HW0YB&keywords=16mm%2BPush%2BButton%2BSwitch&qid=1694827804&sprefix=16mm%2Bpush%2Bbutton%2Bswitch%2Caps%2C303&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)]
-   - Wiring (suggested: No.1, Button On/ LED on) ![image](https://github.com/iiotntust/1121robot/assets/56021651/d3f10f6d-82cf-433b-a58e-2134b93983ee)
+   - Wiring (suggested: No.1, Button On/ LED on)
+   
+      ![image](https://github.com/iiotntust/1121robot/assets/56021651/d3f10f6d-82cf-433b-a58e-2134b93983ee)
 - #### HMI:
 1. Illustrate wiring diagram
    - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
