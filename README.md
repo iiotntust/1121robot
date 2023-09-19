@@ -83,7 +83,7 @@ In this sector, students learn how to design the mechanical parts for the grippe
 - #### Instruction and reference
 1. Instruction .ppt (follow TA)
 2. 3D printer (Roland)
-   - Roland Technical Support: https://www.rolanddga.com/support/products/3d-printing-device
+   - Roland Technical Support: https://www.rolanddga.com/support/products/3d-printing-devices
    - Tutorial video: https://www.youtube.com/watch?v=uk_OII4pgcA
    - Taiwan Agent: http://www.twinsoft.com.tw/ARM-10/ARM10.htm  
 ## :eight_pointed_black_star: Electrical design and wiring: (group A and B collaboration)
