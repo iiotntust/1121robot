@@ -6,9 +6,9 @@
 :white_check_mark:**Quiz type:** single or multi-selection.   
 :white_check_mark:**Scope:** handouts in class and EPSON robot manual RC+5.0, RC+7.0, RC180 manuals (available on Moodle system). 
 
-:bulb: This is the Quiz-bank for midterm examination preparation and homework. 
+:bulb: All quiz answers should be found in the handout and manuals; only a few quiz answers are mentioned in class by the TA or Teacher. The answers would not be announced until mid-term exams finish. 
 
-All quiz answers should be found in the handout and manuals; only a few quiz answers are mentioned in class by the TA or Teacher. The answers would not be announced until mid-term exams finish. 
+ 
 
 ## :pencil: Part I: General 
 Introduction and robotic general concept. 
