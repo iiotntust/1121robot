@@ -42,11 +42,11 @@ Introduction and robotic general concept.
 ## :pencil: Part II: Hardware   
 Manipulator, controller, workcell, fixtures, schematic, wiring  ...... (EPSON intallation and maitenance manuals) 
 
-### 10. Quiz
-- [ ] A. C series
-- [ ] B. VT series 
-- [ ] C. S5 series
-- [ ] D. G series
+### 10. Which pneumatic component does not include in the workcell of our class? 
+- [ ] A. Pressure gauge
+- [ ] B. Solenoid
+- [ ] C. Vacuum Filter 
+- [ ] D. Rotary cylinder
 
 
 ## :pencil: Part III: Programming   
