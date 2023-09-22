@@ -33,7 +33,7 @@ All quiz answers should be found in the handout and manuals; only a few quiz ans
 - [ ] C. S5 series
 - [ ] D. G series
 
-### :three: Post-launch
+### 5. Post-launch
 
 -
 -
