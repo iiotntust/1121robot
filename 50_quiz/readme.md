@@ -13,8 +13,8 @@
 :::success
 All quiz answers should be found in the handout and manuals; only a few quiz answers are mentioned in class by the TA or Teacher. The answers would not be announced until mid-term exams finish. 
 :::
-
-### 1. Which EPSON robot model series is not 6-Axis Pro. 
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+### 1. Which EPSON robot model series is not in the EPSON 6-AxisPro. 
 - [ ] A. C series
 - [ ] B. VT series 
 - [ ] C. S5 series
