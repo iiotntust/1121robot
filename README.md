@@ -151,4 +151,4 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.
 2. Delta HMI manual: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://filecenter.deltaww.com/Products/download/06/060302/Manual/DELTA_IA-HMI_DOPSoft_UM_EN_20211230.pdf
 ### :small_blue_diamond: demo video
 1. Basic exercise: pick and place (feeder-->fixture-->tray) https://youtu.be/XQcib0vzzIk
-2. Calibration exericise: local/tool calibration https://youtu.be/TOrHTE-4aC4
+2. Calibration exericise: local/tool coordinates calibration https://youtu.be/TOrHTE-4aC4
