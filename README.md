@@ -102,13 +102,28 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
 1. Illustrate wiring diagram
    - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
    - I/O box to Robot I/O terminal
-3. Wiring and Assembling
-4. Github: save drawing and files (.pdf)
+2. Wiring and Assembling
+3. Github: save drawing and files (.pdf)
 4. Reference
    - HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
    - WEINTEK forum (EPSON): https://forum.weintekusa.com/t/epson/669
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
    - WEINTEK HMI full course: https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B
+## 📈  Final exam tasks (competition):
+1. Designated Task 1: Pick-n-Place
+   Criterion 
+   - Completed the movement of three tokens and three blocks from the Feeder to Fixture, then to the Tray by order.   
+   - Conduct the movement reversely, from Tray to Feeder directly. (Skip the fixture cell)
+   Score
+   - Totoal Time (the team with shortest time win)
+2. Designated Task 2: Stack-up
+   Criterion 
+   - Stack up tokens and blocks alternatively. (5 token and 5 blocks)  
+   Score
+   - Totoal Time (the team with shortest time win)
+3. Option task:
+   Criterion:
+   - Adding the challenge tasks in the tasks. 
 
 ## 📈  Level of achievement:
 
