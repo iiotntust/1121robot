@@ -64,7 +64,7 @@ Exercise: Insert CAD models in a robot envelope.
 - #### Task 5. GUI
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
 2. GUI#2 - Move tokens and blocks into the tray from feeder to tray (fixture optional); one button forward and one return.    
-- #### Task 5. Others
+- #### Task 6. Others (optional)
 1. Using robot GUI / or button box or HMI - check token or block 
 2. Using robot GUI / or button box or HMI - Check the orientation of "rectangle" blocks
 3. ......... with any idea you can think of. (continue)
