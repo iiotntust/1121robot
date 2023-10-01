@@ -56,7 +56,7 @@ Exercise: Insert CAD models in a robot envelope.
 4. Unfull-fill the feeder (checking quantity)
 - #### Task 3. Fixture
 1. Two fixtures (for different orientations - block 20 mm x 24 mm)
-2. How to distinguish the block in (20 mm x 24 mm) or (24 mm x 20 mm)
+2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challeng task 2-3. 
 - #### Task 4. Tray
 1. One tray 
 2. Two trays stack up (two layers)
