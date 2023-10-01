@@ -59,7 +59,7 @@ Exercise: Insert CAD models in a robot envelope.
 2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challeng task 2-3.
 3. Develop the way to detect the orientations of the block (20 mm x 24 mm); might be gripper or vacuum nozzle. 
 - #### Task 4. Tray
-1. One tray 
+1. One tray - keep status in robot memory (occupied or vacancy)
 2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
 - #### Task 5. GUI
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
