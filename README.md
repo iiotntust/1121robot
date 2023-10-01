@@ -62,15 +62,14 @@ Exercise: Insert CAD models in a robot envelope.
 1. One tray - keep status in robot memory (occupied or vacancy)
 2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
 - #### Task 5. GUI
-Functionality
+Functionality: 
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
 2. GUI#2 - Move tokens and blocks into the tray from feeder to tray (fixture optional); one button forward and one return.
-Tools:
+Tools: 
 1. I/O box: Start (Green), Reset (Org), Stop (Red); Forward(Blue), Reverse(White)
 2. HMI: create the button on touch screen
 3. EPSON robot GUI: create the button on touch screen
-![image](https://github.com/iiotntust/1121robot/assets/56021651/477fac6e-2710-4973-ab65-a35a737cf623)
-    
+  
 - #### Task 6. Others (optional)
 1. Using robot GUI / or button box or HMI - check token or block 
 2. Using robot GUI / or button box or HMI - Check the orientation of "rectangle" blocks
