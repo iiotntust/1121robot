@@ -55,12 +55,12 @@ Exercise: Insert CAD models in a robot envelope.
 3. Stack up not neatly (not aligned)
 4. Unfull-fill the feeder (checking quantity)
 - #### Task 3. Fixture
-1. Two fixtures (for different orientations - block 20 mm x 24 mm)
-2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challeng task 2-3. 
+1. Two fixtures, one as primary, the other as secondary (as buffer when there is no space at tray).  
+2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challeng task 2-3.
+3. Develop the way to detect the orientations of the block (20 mm x 24 mm); might be gripper or vacuum nozzle. 
 - #### Task 4. Tray
 1. One tray 
-2. Two trays stack up (two layers)
-3. Two trays, one at the essential location and one at another with an angle(30 degrees). 
+2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
 - #### Task 5. GUI
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
 2. GUI#2 - Move tokens and blocks into the tray from feeder to tray (fixture optional); one button forward and one return.    
