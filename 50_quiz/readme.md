@@ -9,6 +9,8 @@
 :bulb: All quiz answers should be found in the handout and manuals; only a few quiz answers are mentioned in class by the TA or Teacher. The answers would not be announced until mid-term exams finish. 
 
  
+1121 Robot tutorial course – quiz bank
+[Selection type] – 50 quizzes. 
 
 ## :pencil: Part I: General 
 Introduction and robotic general concept. 
@@ -80,81 +82,6 @@ Introduction and robotic general concept.
 - [ ] D. Create a repository at Github as the collaborative platform for the team to keep all data in the class
 - [ ] E. Design mechnial parts and print them with 3D printer
 - [ ] F. Illustrate the wiring diagram for connecting I/O box to the Robot I/O port.  
-
-
-
-1121 Robot tutorial course – quiz bank
-[Selection type] – 50 quizzes. 
-Part I: General (10 Quiz)
-Introduction and robotic general concept. 
-
-1.	In the EPSON robot model series, Which series is not in the EPSON 6-AxisPro. 
--	[ ] A. C series
--	[ ] B. VT series 
--	[ ] C. S5 series
--	[ ] D. G series
-
-2.	Which robot has the longest arm?
--	[ ] A. S-901S
--	[ ] B. S-A600S 
--	[ ] C. S-700S
--	[ ] D. C12XL 6-Axis Robot
-
-3.	Which company does not make industrial robot arms? 
--	[ ] A. ABB Ltd.
--	[ ] B. Fanuc Corp. 
--	[ ] C. iRobot
--	[ ] D. Epson Robots
-
-4.	What components are included in the work cell of the robotic exercise platform? (Multi-selection)
--	[ ] A. Feeder cell
--	[ ] B. Tray
--	[ ] C. Fixture
--	[ ] D. Reference pole (rod)
-
-5.	Which end-effectors are excluded from the exercises? (Multi-selection)
--	[ ] A. Gripper
--	[ ] B. Vacuum nozzle
--	[ ] C. Electrical Screwdriver
--	[ ] D. Torch
--	[ ] E. Soldering gun
--	[ ] F. Glue gun 
-
-6.	What protocol is not the main one for the communication between the PC to the EPSON robot? 
--	[ ] A. Fieldbus
--	[ ] B. USB port
--	[ ] C. Ethernet
--	[ ] D. WiFi 
-
-7.	Which description below is not true regarding the RC180 controller? 
--	[ ] A. RC180 possessed embedded 50-pin i/o bus 
--	[ ] B. RC180 does not have any external ports.
--	[ ] C. Emergency Stop I/O cannot be used for general purpose
--	[ ] D. Can connect either NPN or PNP sensors, but not simultaneously. 
-
-8.	In a pneumatic system, which component connects to the I/O port and is driven by electricity? (multi-selection)
--	[ ] A. Solenoid
--	[ ] B. Vacuum filter
--	[ ] C. Cylinder
--	[ ] D. Gripper
--	[ ] F. Pressure gauge 
--	[ ] G. Silencer
--	[ ] H. Vacuum generator
-
-9.	Which pneumatic component is not included in the work cell of our class? 
--	[ ] A. Pressure gauge
--	[ ] B. Solenoid
--	[ ] C. Vacuum Filter 
--	[ ] D. Rotary cylinder
-
-10.	What tasks should I complete in the class? 
--	[ ] A. Exercise #1: Calibration and Alignment
--	[ ] B. Exercise #2: I/O and port communication
--	[ ] C. Final exercise: with challenging tasks
--	[ ] D. Create a repository at Github as the collaborative platform for the team to keep all data in the class
--	[ ] E. Design mechanical parts and print them with a 3D printer
--	[ ] F. Illustrate the wiring diagram connecting the I/O box to the Robot I/O port.  
--	[ ] G. All above
 
 ## :pencil: Part II: Hardware and coordinates (20 quizzes)   
 Manipulator, controller, work cell, fixtures, schematic, wiring, etc. (EPSON installation and maintenance manuals)
