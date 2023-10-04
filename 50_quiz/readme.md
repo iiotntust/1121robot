@@ -80,24 +80,7 @@ Introduction and robotic general concept.
 - [ ] D. Create a repository at Github as the collaborative platform for the team to keep all data in the class
 - [ ] E. Design mechnial parts and print them with 3D printer
 - [ ] F. Illustrate the wiring diagram for connecting I/O box to the Robot I/O port.  
-## :pencil: Part II: Hardware   
-Manipulator, controller, workcell, fixtures, schematic, wiring  ...... (EPSON intallation and maitenance manuals) 
 
-### 11. ? 
-- [ ] A. Pressure gauge
-- [ ] B. Solenoid
-- [ ] C. Vacuum Filter 
-- [ ] D. Rotary cylinder
-
-
-## :pencil: Part III: Programming   
-SPEL+ Language, GUI,...... 
-
-### 30. Quiz
-- [ ] A. C series
-- [ ] B. VT series 
-- [ ] C. S5 series
-- [ ] D. G series
 
 
 1121 Robot tutorial course – quiz bank
@@ -173,9 +156,8 @@ Introduction and robotic general concept.
 -	[ ] F. Illustrate the wiring diagram connecting the I/O box to the Robot I/O port.  
 -	[ ] G. All above
 
- 
-Part II: Hardware and coordinates (20 quizzes)
-Manipulator, controller, work cell, fixtures, schematic, wiring, etc. (EPSON installation and maintenance manuals) 
+## :pencil: Part II: Hardware and coordinates (20 quizzes)   
+Manipulator, controller, work cell, fixtures, schematic, wiring, etc. (EPSON installation and maintenance manuals)
 
 1.	Which components/sockets/connector name below is not correct?  
  
@@ -310,9 +292,10 @@ annual.
 -	[ ] D. Controller Main: 1001 ~ 
 -	[ ] E: Motor Control: 4001 ~
 -	[ ] F: all above are not correct
- 
-Part III: Programming (20)
+
+## :pencil: Part III: Programming   
 SPEL+ Language, GUI,...... 
+
 1.	In the Function Test of “Do….While” which description below is not correct? 
 Function Test
 	Integer i
@@ -483,33 +466,3 @@ Fend
 -	[ ] F. Virtual I/O
 
  
-[ Fill-in type ] quiz: 
-Please fill in your answer in the blank block. 
-1.	 Write down the parts’ names in the below blank block. (1) to (5)
- 
-
-2.	Write down the components/protocol/function in the below blank block. (1) to (5).  
- 
-
- 
-[ Essay type ] quiz:
-1.	Please describe the steps on how to backup and restore the controller’s file in RC+ software.  
-
-2.	When Error 9716 occurs, questions as below:
-(1)	How do you confirm which parts probably have a problem?
-(2)	How to recover? What actions will you take?
-  
-3.	Please describe the pulse zero calibration procedure for the 6-axis robot.  
-
-4.	If the LED blinks after the start of the controller, which parts inside the controller might have trouble? 
-
-5.	If Error 5041 occurred at joint 5 in the 6-axis, please answer the below questions: (10 points)
-(1)	Please describe how to verify this is the robot or controller’s problem
-(2)	If the robot’s problem, which parts need to be checked?
-(3)	If the controller’s problem, which parts need to be checked?
-
-6.	Conditions: #1 Robot (OK), #1 Controller (NG), #2 Robot(NG), #2 Controller(OK)
-If we put #1 Robot and #2 Controller as a set for a new project, what procedure should be done in advance? Please depict briefly. 
- 
-
-
