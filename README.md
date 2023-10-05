@@ -95,7 +95,13 @@ In this sector, students learn how to design the mechanical parts for the grippe
 4. Github: save drawings and files (for 3D printer).
 - #### Instruction and reference
 1. Instruction .ppt (follow TA)
-2. 3D printer (Roland)
+2. 3D printer (Phrozen3)
+   - Phrozen manual download (Sonic Mini 4K): https://phrozen3d.com/pages/manual
+   - Test model file: https://phrozen3d.com/pages/phrozens-xp-finder-and-rp-tester-test-model-download-and-tutorials
+   - Tutorial video: https://phrozen3d.com/pages/video-tutorial
+   - Software download: https://phrozen3d.com/pages/software
+   - Chitubox download: https://www.chitubox.com/en/download/chitubox-free
+4. 3D printer (Roland)
    - Roland Technical Support: https://www.rolanddga.com/support/products/3d-printing-devices
    - Tutorial video: https://www.youtube.com/watch?v=uk_OII4pgcA
    - Taiwan Agent: http://www.twinsoft.com.tw/ARM-10/ARM10.htm  
