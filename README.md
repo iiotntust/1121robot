@@ -62,7 +62,7 @@ Exercise: Insert CAD models in a robot envelope.
 1. One tray - keep status in robot memory (occupied or vacancy)
 2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
 - #### Task 5. GUI
--- ##### A. Functionality: 
+- ##### A. Functionality: 
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
 2. GUI#2 - Move tokens and blocks into the tray from feeder to tray (fixture optional); one button forward and one return.
 - ##### B. Tools: 
