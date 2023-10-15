@@ -127,7 +127,7 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
    - HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
    - WEINTEK forum (EPSON): https://forum.weintekusa.com/t/epson/669
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
-   - WEINTEK HMI full course: https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B
+   - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
 ## 📈  Final exam tasks (competition):
 1. Designated Task 1: Pick-n-Place
    Criterion 
