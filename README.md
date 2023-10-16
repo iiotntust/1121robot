@@ -14,9 +14,9 @@
     - [ ] HMI
     - [ ] Instruction and reference
 - Machine visions 
-    - [ ] Python
-    - [ ] 
-    - [ ]         
+    - [ ] Hardware Camera/Lens/Lights
+    - [ ] Software Python and OpenCV 
+    - [ ] Pattern Match        
 - Level of capability: 
     - [ ] Level 1,2,3,4,5.
 - Resources (CAD files, manuals): 
@@ -131,14 +131,20 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
    - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
 ## :eight_pointed_black_star: Machine vision 
-In this sector, ................
-1. Illustrate wiring diagram (.pdf)
-   - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
-   - I/O box to Robot I/O terminal
-2. Wiring and Assembling
-3. Github: save drawing and files (.pdf)
-4. Reference:
-   
+1. Introduction the basic knowledge of Machine vision    
+2. Knowledge of Hardware  
+   -how to choose camera/lens according to spec  
+   -how to choose lights according to spec  
+4. Knowledge of Software  
+   -Python (string,number,loop,function...)
+5. Vision library  
+   -OpenCV library  
+   -NI Vision (Optional)
+### :small_blue_diamond: Vision software
+1. Python download : https://www.python.org/downloads/    
+2. PyCharm IDE download : https://www.jetbrains.com/pycharm/download/?section=windows  
+3. Python OpenCV : https://pypi.org/project/opencv-python/  
+
 ## 📈  Final exam tasks (competition):
 1. Designated Task 1: Pick-n-Place
    Criterion 
