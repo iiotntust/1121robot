@@ -123,8 +123,6 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
       ![image](https://github.com/iiotntust/1121robot/assets/56021651/d3f10f6d-82cf-433b-a58e-2134b93983ee)
 - #### HMI:
 1. Illustrate wiring diagram
-   - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
-   - I/O box to Robot I/O terminal
 2. Wiring and Assembling
 3. Github: save drawing and files (.pdf)
 4. Reference
