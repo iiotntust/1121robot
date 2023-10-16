@@ -13,6 +13,10 @@
     - [ ] I/O box
     - [ ] HMI
     - [ ] Instruction and reference
+- Machine visions 
+    - [ ] Python
+    - [ ] 
+    - [ ]         
 - Level of capability: 
     - [ ] Level 1,2,3,4,5.
 - Resources (CAD files, manuals): 
