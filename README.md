@@ -174,7 +174,7 @@ To measure the capability of implementation of a robotic project.
 | 04   |Can handle unexpected changes|when lost power, lost pneumatic, E-Stop, can restore system by interference.|
 | 05   |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
 
-The goal is to make the robot run continuously without human intervention. 
+The goal is to make the robot automatically run without human intervention. 
 
 ## :feet: Resources (CAD files, manuals):
 CAD software, files, and manuals.
