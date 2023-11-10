@@ -144,7 +144,8 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
 ### :small_blue_diamond: Vision software
 1. Python download : https://www.python.org/downloads/    
 2. PyCharm IDE download : https://www.jetbrains.com/pycharm/download/?section=windows  
-3. Python OpenCV : https://pypi.org/project/opencv-python/  
+3. Python OpenCV : https://pypi.org/project/opencv-python/
+4. Colab Demo : https://colab.research.google.com/drive/1-fFviwLNJBtvoa2tp_eKlBeV0h546U0o?usp=sharing
 
 ## 📈  Final exam tasks (competition):
 1. Designated Task 1: Pick-n-Place
