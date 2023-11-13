@@ -59,9 +59,9 @@ Exercise: Insert CAD models in a robot envelope.
 3. Stack up not neatly (not aligned)
 4. Unfull-fill the feeder (checking quantity)
 - #### Task 3. Fixture
-1. Two fixtures, one as primary, the other as secondary (as buffer when there is no space at tray).  
+1. Two fixtures are primary and secondary (as buffer when there is no space at the tray).  
 2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challeng task 2-3.
-3. Develop the way to detect the orientations of the block (20 mm x 24 mm); might be gripper or vacuum nozzle. 
+3. Develop a way to detect the orientations of the block (20 mm x 24 mm); it might be a gripper or vacuum nozzle. 
 - #### Task 4. Tray
 1. One tray - keep status in robot memory (occupied or vacancy)
 2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
@@ -71,13 +71,13 @@ Exercise: Insert CAD models in a robot envelope.
 2. GUI#2 - Move tokens and blocks into the tray from feeder to tray (fixture optional); one button forward and one return.
 - ##### B. Tools: 
 1. I/O box: Start (Green), Reset (Org), Stop (Red); Forward(Blue), Reverse(White)
-2. HMI: create the button on touch screen
-3. EPSON robot GUI: create the button on touch screen
+2. HMI: create the button on the touch screen
+3. EPSON robot GUI: create the button on the touch screen
   
 - #### Task 6. Others (optional)
 - ##### A. Response to unexpected issues: 
 1. Lose power
-2. Lose pneumatic (or low pressure)
+2. Lose pneumatic (or low-pressure)
 3. Los I/O signal (hardware malfunction)
 4. Emergency Stop 
 - ##### B. Function button or GUI - to complete operation cycle:
@@ -127,7 +127,7 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
 3. Github: save drawing and files (.pdf)
 4. Reference
    - HMI (Weintek MT8072ip): software EasyBuilder Pro V6.02.02.248 (2019/06/28) https://www.weintek.com/globalw/Download/Download.aspx
-   - Early verion software: EasyBuilder8000 V4.66.02.016 (2016/12/21);for the sample code in classs.
+   - Early version software: EasyBuilder8000 V4.66.02.016 (2016/12/21); for the sample code in class.
    - WEINTEK forum (EPSON): https://forum.weintekusa.com/t/epson/669
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
    - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
@@ -137,31 +137,34 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
    -how to choose camera/lens according to spec  
    -how to choose lights according to spec  
 4. Knowledge of Software  
-   -Python (string,number,loop,function...)
+   -Python (string, number, loop, function...)
 5. Vision library  
    -OpenCV library  
    -NI Vision (Optional)
 ### :small_blue_diamond: Vision software
-1. Python download : https://www.python.org/downloads/    
+1. Python download: https://www.python.org/downloads/    
 2. PyCharm IDE download : https://www.jetbrains.com/pycharm/download/?section=windows  
-3. Python OpenCV : https://pypi.org/project/opencv-python/
+3. Python OpenCV: https://pypi.org/project/opencv-python/
 4. Colab Demo : https://colab.research.google.com/drive/1-fFviwLNJBtvoa2tp_eKlBeV0h546U0o?usp=sharing
 
 ## 📈  Final exam tasks (competition):
-1. Designated Task 1: Pick-n-Place
+Each team should complete the following tasks in 30 minutes. 
+1. Basic Task 1: Pick-n-Place
    Criterion 
-   - Completed the movement of three tokens and three blocks from the Feeder to Fixture, then to the Tray by order.   
+   - Completed the movement of three tokens and three blocks from the Feeder to the Fixture and then to the Tray by order.   
    - Conduct the movement reversely, from Tray to Feeder directly. (Skip the fixture cell)
    Score
-   - Totoal Time (the team with shortest time win)
-2. Designated Task 2: Stack-up
+   - Total Time (the team with the shortest time wins)
+2. Basic Task 2: Stack-up
    Criterion 
-   - Stack up tokens and blocks alternatively. (5 token and 5 blocks)  
+   - Stack up tokens and blocks alternatively. (five tokens and five blocks)  
    Score
-   - Totoal Time (the team with shortest time win)
-3. Option task:
+   - Total Time (the team with the shortest time wins)
+3. Integration task:
    Criterion:
-   - Adding the challenge tasks in the tasks. 
+   - Adding the challenge tasks in the tasks.
+   - with self-design fixtures
+   - with I/O box, HMI
 
 ## 📈  Level of achievement:
 
@@ -170,9 +173,9 @@ To measure the capability of implementation of a robotic project.
 |     **Level**    |   **Capbility**  |**To achieve assignments** |
 |:------------------:|:--------------:|:-----:|
 | 01      | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
-| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
-| 03   |Can plan process to handle expected changes|when one feeder is empty, automatically changes to the other. |
-| 04   |Can handle unexpected changes|when lost power, lost pneumatic, E-Stop, can restore system by interference.|
+| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
+| 03   |Can plan process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
+| 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore system by interference.|
 | 05   |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
 
 The goal is to make the robot automatically run without human intervention. 
@@ -182,7 +185,7 @@ CAD software, files, and manuals.
 ### :small_blue_diamond: CAD software
 1. Mechanical Engineering Department - CAD software 
 https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
-2. Free auto cad, register with student id. 
+2. Free auto cad, register with student ID. 
 https://www.autodesk.com/products/fusion-360/education
 3. Education account apply
 https://www.autodesk.com/education/support
