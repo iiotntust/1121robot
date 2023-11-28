@@ -206,6 +206,8 @@ https://www.autodesk.com/education/support
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide-rc700a_rc90_t(v73r4).pdf  
 2. Delta HMI manual: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://filecenter.deltaww.com/Products/download/06/060302/Manual/DELTA_IA-HMI_DOPSoft_UM_EN_20211230.pdf
 ### :small_blue_diamond: demo video
-1. Basic exercise: pick and place (feeder-->fixture-->tray): https://youtu.be/XQcib0vzzIk
-2. Calibration exercise: local/tool coordinates calibration: https://youtu.be/TOrHTE-4aC4
-3. I/O box assembly: https://youtu.be/_gBvWF14sqk
+1. Task 1: pick and place (feeder-->fixture-->tray): https://youtu.be/XQcib0vzzIk
+2. Task 2: Stacking https://youtu.be/oQTrqzth1_I
+3. Calibration exercise: local/tool coordinates calibration: https://youtu.be/TOrHTE-4aC4
+4. I/O box assembly: https://youtu.be/_gBvWF14sqk
+5. 
