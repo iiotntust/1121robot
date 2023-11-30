@@ -170,7 +170,7 @@ Each team should complete the following tasks in 30 minutes.
 
 To measure the capability of implementation of a robotic project.
 
-|     **Level**    |   **Capbility**  |**To achieve assignments** |
+|     **Level**    |   **Capbility**  |**Example assignments** |
 |:------------------:|:------------------------------:|:---------:|
 | 01   | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
 | 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
