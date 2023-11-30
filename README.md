@@ -1,6 +1,6 @@
 # 1121 Introduction to Robotics Tutorial 
 ## ME4609301 (for Taiwan-Paraquay Polytechnic University)
-:bulb: In this class, the students can learn the basics of manipulating the operation of industrial robot arms (EPSON robot). The class introduces two types of robots, Pro-6-Axis robots and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. In the end, the students possess the capability to design an automatic work cell with the robot. 
+:bulb: In this class, the students can learn the basics of manipulating industrial robot arms (EPSON robot) operation. The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot. 
 ## :beginner: Exercises and resources
 - Basic and Challenging tasks: (by team)
     - [ ] Basic tasks
@@ -171,8 +171,8 @@ Each team should complete the following tasks in 30 minutes.
 To measure the capability of implementation of a robotic project.
 
 |     **Level**    |   **Capbility**  |**To achieve assignments** |
-|:------------------:|:--------------:|:-----:|
-| 01      | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
+|:------------------:|:------------------------------:|:---------:|
+| 01   | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
 | 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
 | 03   |Can plan process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
 | 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore system by interference.|
